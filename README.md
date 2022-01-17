@@ -16,7 +16,7 @@ UnknSMS es un simple script que utiliza la API de https://textbelt.com/ para env
 
 ### [✔] Termux
 
-![termux](https://user-images.githubusercontent.com/75953873/149765770-ad0462e8-fa57-446a-b66f-a9fe1e076f4a.jpg)
+
 
 
 ### EXAMPLE:
