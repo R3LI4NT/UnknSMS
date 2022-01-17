@@ -14,9 +14,30 @@ UnknSMS es un simple script que utiliza la API de https://textbelt.com/ para env
 ![IMG_20220116_201216](https://user-images.githubusercontent.com/75953873/149682325-47bbbdb2-9ada-491b-8c61-cc7bb5ebeb66.jpg)
 
 
-## Instalación / Installation
+### [✔] Termux
+
+![termux](https://user-images.githubusercontent.com/75953873/149765770-ad0462e8-fa57-446a-b66f-a9fe1e076f4a.jpg)
+
+
+### EXAMPLE:
+
+![termux_sms](https://user-images.githubusercontent.com/75953873/149765826-75888efb-c475-450d-ae2e-ab9c1c65e20b.jpg)
+
+
+## Instalación / Installation **`Debian`**
 
 ```
+• git clone https://github.com/R3LI4NT/UnknSMS
+• cd UnknSMS
+• python3 unknsms.py
+```
+
+## Instalación / Installation **`Termux`**
+
+```
+• pkg install git
+• pkg install python3
+• pip install requests
 • git clone https://github.com/R3LI4NT/UnknSMS
 • cd UnknSMS
 • python3 unknsms.py
