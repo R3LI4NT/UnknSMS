@@ -31,7 +31,7 @@ UnknSMS es un simple script que utiliza la API de https://textbelt.com/ para env
 
 ### EXAMPLE:
 
-![termux_sms](https://user-images.githubusercontent.com/75953873/149765826-75888efb-c475-450d-ae2e-ab9c1c65e20b.jpg)
+![sms_example3](https://user-images.githubusercontent.com/75953873/150221377-188dd55e-a3ef-42b3-a9b3-844e2289ed33.jpg)
 
 
 ## Instalación / Installation **`Debian`**
@@ -51,4 +51,16 @@ UnknSMS es un simple script que utiliza la API de https://textbelt.com/ para env
 • git clone https://github.com/R3LI4NT/UnknSMS
 • cd UnknSMS
 • python3 unknsms.py
+```
+
+
+## Requirements in **`Windows`**
+
+```
+• python3 installed --> https://www.python.org/downloads/
+• download the repository manually
+• open CMD
+• pip3 install requests
+• cd UnknSMS
+• python3 windowsSMS.py
 ```
