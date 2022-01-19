@@ -24,6 +24,16 @@ UnknSMS es un simple script que utiliza la API de https://textbelt.com/ para env
 ![termux_sms](https://user-images.githubusercontent.com/75953873/149765826-75888efb-c475-450d-ae2e-ab9c1c65e20b.jpg)
 
 
+### [✔] Windows 10
+
+![windows10](https://user-images.githubusercontent.com/75953873/150221006-f1150c3f-e041-4c6b-87e2-e9cfdc8effbd.png)
+
+
+### EXAMPLE:
+
+![termux_sms](https://user-images.githubusercontent.com/75953873/149765826-75888efb-c475-450d-ae2e-ab9c1c65e20b.jpg)
+
+
 ## Instalación / Installation **`Debian`**
 
 ```
