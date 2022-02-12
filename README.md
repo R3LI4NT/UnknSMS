@@ -6,7 +6,7 @@ UnknSMS es un simple script que utiliza la API de https://textbelt.com/ para env
 
 ### [✔] Kali Linux
 
-![unknsms](https://user-images.githubusercontent.com/75953873/149682263-b730ef3b-21ac-49ef-b5f8-aef7d00caa7f.png)
+![kali_linux](https://user-images.githubusercontent.com/75953873/153732558-9454f3b4-2681-41b2-a641-ee71ef0f670c.png)
 
 
 ### EXAMPLE:
