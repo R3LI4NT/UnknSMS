@@ -62,5 +62,5 @@ UnknSMS es un simple script que utiliza la API de https://textbelt.com/ para env
 • open CMD
 • pip3 install requests
 • cd UnknSMS
-• python3 windowsSMS.py
+• python3 unknsms.py
 ```
