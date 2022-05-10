@@ -14,7 +14,7 @@ WHITE = '\033[1;37m'
 CYAN = '\033[1;36m'
 END = '\033[0m'
 
-os.system('clear')
+os.system('cls||clear')
 
 def banner():
 	print("""
